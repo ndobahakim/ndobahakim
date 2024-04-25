@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**ndobahakim/ndobahakim** is a ✨ _special_ ✨ repository because its `README.md`.
-
 I am an enthusiastic web developer passionate about front-end & back-end development. 
 My current focus lies in expanding my expertise in front-end & back-end web development. 
 I am actively seeking opportunities to collaborate on front-end web projects, 
