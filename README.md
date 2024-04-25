@@ -1,7 +1,12 @@
 ### Hi there 👋
 
 <!--
-**ndobahakim/ndobahakim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ndobahakim/ndobahakim** is a ✨ _special_ ✨ repository because its `README.md`.
+
+I am an enthusiastic web developer passionate about front-end & back-end development. 
+My current focus lies in expanding my expertise in front-end & back-end web development. 
+I am actively seeking opportunities to collaborate on front-end web projects, 
+as collaborative efforts are instrumental in achieving excellence in web development.
 
 Here are some ideas to get you started:
 
